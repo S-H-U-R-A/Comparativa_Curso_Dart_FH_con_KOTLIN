@@ -44,3 +44,13 @@ Wapp/src/main/java/com/example/comparativafluttercursofh/control_02/07_break_con
 Qapp/src/main/java/com/example/comparativafluttercursofh/control_02/08_labelfor.kt,d\0\d040b8f8fc4c5b9929aaed38afef4c72b22e7994
 „
 Tapp/src/main/java/com/example/comparativafluttercursofh/control_02/09_switch_when.kt,c\c\cca9994b40a9fbca37b246aae134b709da7edcaa
+‰
+Yapp/src/main/java/com/example/comparativafluttercursofh/funciones_05/01_funcion_basica.kt,b\8\b8e407ed2fc3a690ef26da7f794152cd4e621b67
+…
+Uapp/src/main/java/com/example/comparativafluttercursofh/funciones_05/02_argumentos.kt,1\4\1447318bae6b5726a0986ea15fc86b8c47fa4dd1
+‹
+[app/src/main/java/com/example/comparativafluttercursofh/funciones_05/03_valor_referencia.kt,a\8\a80d56ca3621e6bdecd953aaa1fc87b80f23ef3f
+ˆ
+Xapp/src/main/java/com/example/comparativafluttercursofh/funciones_05/04_lambda_flecha.kt,5\9\59e299c0abc5fe940814eafd406cd26bc4918157
+‘
+aapp/src/main/java/com/example/comparativafluttercursofh/funciones_05/05_callback_ordenSuperior.kt,c\6\c65e2cfee03d97c5806dd9e8106d2382a9cb92d4
