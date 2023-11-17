@@ -76,3 +76,17 @@ Uapp/src/main/java/com/example/comparativafluttercursofh/tipos_nocomunes_04/02_e
 [app/src/main/java/com/example/comparativafluttercursofh/tipos_nocomunes_04/06_catchError.kt,a\2\a29acd13442861ceb19ba160b3e8fc4af21b322e
 ç
 ]app/src/main/java/com/example/comparativafluttercursofh/tipos_nocomunes_04/07_stream_flows.kt,1\b\1b97001b68a12d4013fc994039a05a12a6fea221
+â
+Yapp/src/androidTest/java/com/example/comparativafluttercursofh/ExampleInstrumentedTest.kt,9\2\9235e67e7f33439cde1953f474bd5125d04ee104
+~
+Napp/src/main/java/com/example/comparativafluttercursofh/clases_05/01_clases.kt,d\8\d8ff47020b1e09d1f9a08c73a93f4a41c9fb78ad
+É
+Sapp/src/main/java/com/example/comparativafluttercursofh/clases_05/clases/Persona.kt,1\6\160670b42f5530e3ff1ddc48cd06a3ed580d1d76
+è
+_app/src/main/java/com/example/comparativafluttercursofh/clases_05/02_propiedades_finales_val.kt,6\5\65265bb15eeef625fbc5fd17ea61d0413589926c
+í
+bapp/src/main/java/com/example/comparativafluttercursofh/clases_05/05_estaticos_companion_object.kt,8\b\8be8588508da3b4e48db74469ec6bf86fa1f06f1
+Å
+Qapp/src/main/java/com/example/comparativafluttercursofh/clases_05/06_singleton.kt,8\8\88f57af7ac8991b77f76f5b60a301bf0f4ca655c
+Ü
+Vapp/src/main/java/com/example/comparativafluttercursofh/clases_05/clases/MiServicio.kt,7\4\74888df3068153f20cc03d09fbfcaefca195b967
