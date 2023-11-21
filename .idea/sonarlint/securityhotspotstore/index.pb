@@ -1,6 +1,4 @@
 
-w
-Gapp/src/main/java/com/example/comparativafluttercursofh/02_dataTypes.kt,4\0\40b4420807f74e6fd29c631ab0c957a1a9d8eda6
 D
 app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
 w
@@ -13,21 +11,15 @@ S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 Å
 Q.idea/sonarlint/securityhotspotstore/d/2/d2a4383452aad84a18429a5844d31330a012a9e6,7\f\7fcac164c7a46b8fc6411ea93226c884af6044db
-Ç
-Rapp/src/main/java/com/example/comparativafluttercursofh/03_constantes_y_finales.kt,a\e\ae1bb0bebe6323fad5d75703d632ca13ace9cda5
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-x
-Happ/src/main/java/com/example/comparativafluttercursofh/06_operadores.kt,9\c\9c73d4a17901fe801d119625fa1618a33e731190
 Ç
 Rapp/src/main/java/com/example/comparativafluttercursofh/basico_01/06_operadores.kt,8\a\8ac387717e9915bf578354532f8c0cac1ae57a45
 å
 \app/src/main/java/com/example/comparativafluttercursofh/basico_01/03_constantes_y_finales.kt,2\a\2a1bfd9029b7b46ebbaaf60c8cdb9bc937283868
 Å
 Qapp/src/main/java/com/example/comparativafluttercursofh/basico_01/02_dataTypes.kt,8\0\800e38aa0f91fc05183411b16e04caf0bf7ace0e
-É
-Sapp/src/main/java/com/example/comparativafluttercursofh/control_02/Obtener_input.kt,6\b\6b2e8ea279abc766550f766e4996164002f9b327
 Ü
 Vapp/src/main/java/com/example/comparativafluttercursofh/control_02/01_obtener_input.kt,3\b\3bfe991069484cb81e8985bde49c5373efd25a18
 
@@ -44,16 +36,6 @@ Wapp/src/main/java/com/example/comparativafluttercursofh/control_02/07_break_con
 Qapp/src/main/java/com/example/comparativafluttercursofh/control_02/08_labelfor.kt,d\0\d040b8f8fc4c5b9929aaed38afef4c72b22e7994
 Ñ
 Tapp/src/main/java/com/example/comparativafluttercursofh/control_02/09_switch_when.kt,c\c\cca9994b40a9fbca37b246aae134b709da7edcaa
-â
-Yapp/src/main/java/com/example/comparativafluttercursofh/funciones_05/01_funcion_basica.kt,b\8\b8e407ed2fc3a690ef26da7f794152cd4e621b67
-Ö
-Uapp/src/main/java/com/example/comparativafluttercursofh/funciones_05/02_argumentos.kt,1\4\1447318bae6b5726a0986ea15fc86b8c47fa4dd1
-ã
-[app/src/main/java/com/example/comparativafluttercursofh/funciones_05/03_valor_referencia.kt,a\8\a80d56ca3621e6bdecd953aaa1fc87b80f23ef3f
-à
-Xapp/src/main/java/com/example/comparativafluttercursofh/funciones_05/04_lambda_flecha.kt,5\9\59e299c0abc5fe940814eafd406cd26bc4918157
-ë
-aapp/src/main/java/com/example/comparativafluttercursofh/funciones_05/05_callback_ordenSuperior.kt,c\6\c65e2cfee03d97c5806dd9e8106d2382a9cb92d4
 ã
 [app/src/main/java/com/example/comparativafluttercursofh/funciones_03/03_valor_referencia.kt,1\4\14dd0a8812504b3b2cc2bdc1077ff92891f36954
 Ö
@@ -90,3 +72,13 @@ bapp/src/main/java/com/example/comparativafluttercursofh/clases_05/05_estaticos_
 Qapp/src/main/java/com/example/comparativafluttercursofh/clases_05/06_singleton.kt,8\8\88f57af7ac8991b77f76f5b60a301bf0f4ca655c
 Ü
 Vapp/src/main/java/com/example/comparativafluttercursofh/clases_05/clases/MiServicio.kt,7\4\74888df3068153f20cc03d09fbfcaefca195b967
+á
+Wapp/src/main/java/com/example/comparativafluttercursofh/clases_advance_06/01_extends.kt,d\c\dc367b96dff1694468eade781d403108a7160dd2
+ä
+Zapp/src/main/java/com/example/comparativafluttercursofh/clases_advance_06/02_abstractas.kt,1\0\1083adbeb4e5419838217602bde2ede674f52a7f
+ë
+aapp/src/main/java/com/example/comparativafluttercursofh/clases_advance_06/06_super_constructor.kt,c\9\c9673f87a4e67bd6665248c281cfe326d20603aa
+ë
+aapp/src/main/java/com/example/comparativafluttercursofh/clases_advance_06/03_super_constructor.kt,8\4\842bd22b818c0d838fb16af6357387b25d944e20
+è
+_app/src/main/java/com/example/comparativafluttercursofh/clases_advance_06/05_mixin_interface.kt,f\6\f6244cd27eb59423d2a8a32e89d8a79f5563de0a
